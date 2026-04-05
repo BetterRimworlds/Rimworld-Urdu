@@ -19,6 +19,37 @@ Bring a **full Urdu localization** to RimWorld — built to be **playable, UI-sa
 ## Translation Costs
 
 ```
+
+================ URDU TRANSLATION ANALYSIS ================
+Volume: 125,217 English words -> 208,933 Urdu words
+
+--- LLM (ChatGPT 5.1 Equivalent) ---
+Total API Calls           : 17,214
+Total LLM Tokens In       : 2,952,418
+Total LLM Tokens Out      : 358,284
+LLM total cost            : $7.27
+  ├─ Input cost           : $3.69
+  └─ Output cost          : $3.58
+Total runtime             : 8.26 hours
+
+--- Human Translation Team (USA) ---
+Project Lead Time         : 152.1 calendar days
+Average Rate              : $75.00/hr
+
+Role            | #  | Total Hrs  | Hrs/Person   | Cost                     
+---------------------------------------------------------------------------
+Translators     | 3  | 1,880.4    | 626.8        | $141,029.77              
+Editors         | 1  | 463.8      | 463.8        | $34,787.34               
+Proofreaders    | 1  | 163.0      | 163.0        | $12,222.58               
+---------------------------------------------------------------------------
+TOTAL BILLABLE HOURS: 2,507.2  | $188,039.70
+
+    [ VS SINGLE HUMAN ]
+    Human Calendar Time   : 702.0 Days (501.4 work + 200.6 wknd)
+    Autonomo Speedup      : 2040.9x FASTER
+
+===========================================================
+
 ```
 
 
